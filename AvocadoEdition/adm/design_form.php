@@ -1005,7 +1005,7 @@ $editor_list = array();
 				<tr>
 					<th rowspan="3" scope="row" class="design-th">
 						<em><?=$css_index?></em>기타버튼
-						<input type="text" name="cs_name[<?=$css_index?>]" value="btn_point" readonly class="full" />
+						<input type="text" name="cs_name[<?=$css_index?>]" value="btn_etc" readonly class="full" />
 					</th>
 					<td class="bo-right bo-left txt-center">
 						일반상태
